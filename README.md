@@ -7,6 +7,7 @@ CodeSphere delivers a seamless coding experience directly in the browser, allowi
 ## 🌍 Live Demo & Repository
 
 _ **Live Project: Coming Soon
+
 _ **GitHub Repository: (https://github.com/frankmarvin/codesphere).
 
 ---
