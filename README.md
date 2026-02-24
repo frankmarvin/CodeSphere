@@ -66,16 +66,20 @@ Deployable on **Vercel**, **Netlify**, **Render**, or **Railway**.
 
 🏗️ Project Structure
 
-Codesphere/
+CodeSphere/
 │
-├── client/              # React Frontend
+├── client/                     (Frontend - React)
+│   ├── public/
 │   └── src/
 │       ├── App.js
-│       └── index.js
+│       ├── index.js
+│       └── components/
 │
-└── server/              # Node.js Backend
-    └── server.js
-
+├── server/                     (Backend - Node.js + Express)
+│   └── server.js
+│
+├── package.json
+└── README.md
 
 ---
     
