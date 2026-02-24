@@ -8,7 +8,7 @@ CodeSphere delivers a seamless coding experience directly in the browser, allowi
 ## 🌍 Live Demo & Repository
 
 _ **Live Project: Coming Soon
-_ **GitHub Repository: https://github.com/yourusername/codesphere�
+_ **GitHub Repository: (https://github.com/frankmarvin/codesphere).
 
 ---
 
@@ -43,7 +43,7 @@ Deployable on **Vercel**, **Netlify**, **Render**, or **Railway**.
 
 🏗️ Project Structure
 
-codesphere/
+Codesphere/
 │
 ├── client/              # React Frontend
 │   └── src/
@@ -52,6 +52,7 @@ codesphere/
 │
 └── server/              # Node.js Backend
     └── server.js
+
 
 ---
     
