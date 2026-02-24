@@ -1,5 +1,4 @@
 🌐 CodeSphere
-
 I'm Frank Marvin — welcome to CodeSphere, a modern, real-time collaborative code editor and browser-based development environment.
 CodeSphere delivers a seamless coding experience directly in the browser, allowing multiple developers to write, edit, and test code simultaneously. Powered by WebSockets and a modular full-stack architecture, the platform provides instant synchronization and live project execution — with zero installation required.
 
@@ -14,7 +13,26 @@ _ **GitHub Repository: (https://github.com/frankmarvin/codesphere).
 
 ## 🏷️ Badges
 
-� � � � � � �
+![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=white)
+![Editor](https://img.shields.io/badge/Editor-Monaco-007ACC?logo=visualstudiocode&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white)
+![Framework](https://img.shields.io/badge/Framework-Express-000000?logo=express&logoColor=white)
+![Realtime](https://img.shields.io/badge/Realtime-Socket.IO-010101?logo=socket.io&logoColor=white)
+![Architecture](https://img.shields.io/badge/Architecture-Full--Stack-purple)
+![Protocol](https://img.shields.io/badge/Protocol-WebSockets-blue)
+
+![Deploy Frontend - Vercel](https://img.shields.io/badge/Frontend-Deployed%20on%20Vercel-000000?logo=vercel&logoColor=white)
+![Deploy Frontend - Netlify](https://img.shields.io/badge/Frontend-Deployed%20on%20Netlify-00C7B7?logo=netlify&logoColor=white)
+
+![Deploy Backend - Render](https://img.shields.io/badge/Backend-Live%20on%20Render-46E3B7?logo=render&logoColor=white)
+![Deploy Backend - Railway](https://img.shields.io/badge/Backend-Live%20on%20Railway-0B0D0E?logo=railway&logoColor=white)
+
+![CI/CD](https://github.com/frankmarvin/codesphere/actions/workflows/node.yml/badge.svg)
+
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
+![Made by Frank Marvin](https://img.shields.io/badge/Made%20by-Frank%20Marvin%20🇰🇪-000000?style=for-the-badge&logo=github&logoColor=white)
+
 ## ✨ Features
 - ⚡ Real-time collaborative editing
 - 🎨 VS Code–powered editor (Monaco Editor)
