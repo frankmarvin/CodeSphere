@@ -149,4 +149,11 @@ CodeSphere aims to become a full-featured, browser-based development platform th
 👨‍💻 Developer
 
 Frank Marvin ❤️
+
+GitHub: @frankmarvin
+
+Project: Cognia-AI
+
+Made with ❤️ in Kenya 🇰🇪
+
 Full-Stack Developer | IT Specialist | Builder of CodeSphere
