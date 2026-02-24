@@ -144,6 +144,18 @@ Netlify – Static web hosting
 Render – Node.js hosting
 Railway – Full-stack deployment platform
 
+3️⃣ Termux
+pkg update && pkg upgrade -y
+pkg install git nodejs wget curl nano vim openssh -y
+git clone https://github.com/frankmarvin/CodeSphere.git
+cd ThCodeSphere
+npm install
+npm install pm2 -g
+pm2 start index.js --name "ThCodeSphere"
+pm2 save
+pkg install ngrok -y
+
+
 ---
 
 🤝 Contributing
