@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  background: #0f172a;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.header {
+  padding: 15px;
+  background: #020617;
+  border-bottom: 1px solid #1e293b;
+  text-align: center;
+}
+
+.header h1 {
+  margin: 0;
+  color: #38bdf8;
+}
