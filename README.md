@@ -5,44 +5,39 @@ CodeSphere delivers a seamless coding experience directly in the browser, allowi
 
 ---
 
-🌍 Live Demo & Repository
+## 🌍 Live Demo & Repository
 
-Live Project: Coming Soon
-GitHub Repository: https://github.com/yourusername/codesphere�
+_ **Live Project: Coming Soon
+_ **GitHub Repository: https://github.com/yourusername/codesphere�
 
 ---
 
-🏷️ Badges
+## 🏷️ Badges
 
 � � � � � � �
-✨ Features
-⚡ Real-time collaborative editing
-🎨 VS Code–powered editor (Monaco Editor)
-🌙 Clean dark theme interface
-🔄 Instant synchronization via WebSockets
-🌍 Fully browser-based (no installation required)
-🖥️ Built-in live servers for running and testing projects
-🧩 Modular full-stack architecture
-🚀 Optimized for speed and responsiveness
+## ✨ Features
+- ⚡ Real-time collaborative editing
+- 🎨 VS Code–powered editor (Monaco Editor)
+- 🌙 Clean dark theme interface
+- 🔄 Instant synchronization via WebSockets
+- 🌏 Fully browser-based (no installation required)
+- 🖥️ Built-in live servers for running and testing projects
+- 🧩 Modular full-stack architecture
+- 🚀 Optimized for speed and resInstallation
+
+Deployable on **Vercel**, **Netlify**, **Render**, or **Railway**.
 
 ---
 
-🛠️ Tech Stack
-
-Category
-Technology
-Frontend
-React
-Code Editor
-Monaco Editor
-Realtime
-Socket.io Client
-Backend
-Node.js
-Framework
-Express
-WebSockets
-Socket.IO
+## 🛠️ Tech Stack
+| Category      | Technology             | 
+|---------------|------------------------|
+| Frontend      | React                  |
+| Code Editor   | Monaco Editor          |
+| Realtime      | Socket.io Client       |
+| Backend       | Node.js                |
+| Framework     | Express                |
+| WebSockets    | Socket.IO              |
 
 ---
 
@@ -60,17 +55,17 @@ codesphere/
 
 ---
     
-    ⚙️ Installation
+## ⚙️ Installation
+
 1️⃣ Clone the Repository
 
-Bash
+```Bash
 git clone https://github.com/yourusername/codesphere.git
 cd codesphere
 
 2️⃣ Start the Backend Server
 
-Bash
-Copy code
+```Bash
 cd server
 npm install
 npm start
@@ -80,8 +75,7 @@ http://localhost:5000
 3️⃣ Start the Frontend
 
 Open a new terminal:
-Bash
-Copy code
+```Bash
 cd client
 npm install
 npm start
@@ -102,22 +96,22 @@ Users can run and preview projects live in the browser
 
 🔮 Roadmap
 
-📂 VS Code–style file explorer sidebar
-💾 Persistent storage using MongoDB
-🔐 Authentication & user accounts
-🖥️ Secure live code execution environment
-🌍 Cloud deployment & scalability
-👥 Multi-room collaboration support
+[ ] 📂 VS Code–style file explorer sidebar
+[ ] 💾 Persistent storage using MongoDB
+[ ] 🔐 Authentication & user accounts
+[ ] 🖥️ Secure live code execution environment
+[ ] 🌍 Cloud deployment & scalability
+[ ] 👥 Multi-room collaboration support
 
 ---
 
 🌍 Deployment Options
 
-Frontend
+1️⃣ Frontend
 Vercel – React hosting
 Netlify – Static web hosting
 
-Backend
+2️⃣ Backend
 Render – Node.js hosting
 Railway – Full-stack deployment platform
 
