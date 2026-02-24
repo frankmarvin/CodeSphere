@@ -21,15 +21,18 @@ _ **GitHub Repository: (https://github.com/frankmarvin/codesphere).
 ![Architecture](https://img.shields.io/badge/Architecture-Full--Stack-purple)
 ![Protocol](https://img.shields.io/badge/Protocol-WebSockets-blue)
 
-![Deploy Frontend - Vercel](https://img.shields.io/badge/Frontend-Deployed%20on%20Vercel-000000?logo=vercel&logoColor=white)
+![Deploy Frontend - Vercel](https://img.shields.io/badge/Frontend-Deployed%20on%20Vercel-000000?logo=vercel&logoColor=white) 
+
 ![Deploy Frontend - Netlify](https://img.shields.io/badge/Frontend-Deployed%20on%20Netlify-00C7B7?logo=netlify&logoColor=white)
 
 ![Deploy Backend - Render](https://img.shields.io/badge/Backend-Live%20on%20Render-46E3B7?logo=render&logoColor=white)
+
 ![Deploy Backend - Railway](https://img.shields.io/badge/Backend-Live%20on%20Railway-0B0D0E?logo=railway&logoColor=white)
 
 ![CI/CD](https://github.com/frankmarvin/codesphere/actions/workflows/node.yml/badge.svg)
 
-![License](https://img.shields.io/badge/License-MIT-yellow)
+![License](https://img.shields.io/badge/License-MIT-yellow) 
+
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-success) 
 
 
