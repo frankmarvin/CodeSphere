@@ -148,7 +148,7 @@ Railway – Full-stack deployment platform
 pkg update && pkg upgrade -y
 pkg install git nodejs wget curl nano vim openssh -y
 git clone https://github.com/frankmarvin/CodeSphere.git
-cd ThCodeSphere
+cd CodeSphere
 npm install
 npm install pm2 -g
 pm2 start index.js --name "ThCodeSphere"
